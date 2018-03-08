@@ -7,15 +7,9 @@
 A GUI application to download videos from YouTube
 *`C# Microsoft Visual Studio (2017 - 2015 - 2013)`*
 ## ***``Windows OS Desktop PC``*** 
-
-[![Build YouTube Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/YouTubeDownloader/releases/tag/Debug)
-
 #### ***```To download the executable, go to downloads section under releases```***
  [![Build YouTube Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/YouTubeDownloader/releases)
  
-
- ***
-  ***
 ***
 
 ## The Prerequisites are Required: Loading Preview   
