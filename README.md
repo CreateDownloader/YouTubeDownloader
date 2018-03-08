@@ -18,9 +18,10 @@ A GUI application to download videos from YouTube
 
 ## **`You also need ffmpeg for DASH videos. Get it here Downloader`**
 [![Build You also need ffmpeg for DASH videos. Get it here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](http://ffmpeg.org/download.html)
-***
 
-This is a GUI version of youtube-dl found here:https://rg3.github.io/youtube-dl/
+## **`This is a GUI version of youtube-dl found. Get it here Downloader`**
+[![Build This is a GUI version of youtube-dl found here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://rg3.github.io/youtube-dl/)
+***
 
 ![Screenshot](Youtube-downloader.png)
 
