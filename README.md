@@ -17,7 +17,7 @@ Here it is in action:
 
 I have used several packages, such as WindowsApiCodePack, Costura.Fordy etc, which NuGet should take care of automatically when building(See [here](https://docs.nuget.org/Consume/Package-Restore)). So clone the repo, and you're good to go.
 
-**To download the executable**, go to **downloads** section under releases : https://github.com/rnand/Youtuble-downloader/releases
+**To download the executable**, go to **downloads** section under releases : https://github.com/CreateDownloader/YouTubeDownloader/releases
 
 You need dot net framework 4 to run the application. Get it here: https://www.microsoft.com/en-in/download/details.aspx?id=17851
 
@@ -25,7 +25,7 @@ You also need ffmpeg for DASH videos. Get it here: https://www.ffmpeg.org/downlo
 
 ###USAGE
 
-1. Copy youtube/vimeo/dailymotion/any-other-supported-site video url to clipboard
+1. Copy Youtube/vimeo/dailymotion/any-other-supported-site video url to clipboard
 
 2. Open YouTube Downloader.exe
 
