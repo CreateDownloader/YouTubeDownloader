@@ -10,6 +10,9 @@ A GUI application to download videos from YouTube
 ## The Prerequisites are Required: Loading Preview   
 ## **`Microsoft .NET Framework 4`**
  [![Build You need dot net framework 4 to run the application. Get it here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://www.microsoft.com/en-in/download/details.aspx?id=17851)
+
+The Prerequisites are Required: Loading Preview
+## **`You also need ffmpeg for DASH videos. Get it`**
 [![Build You also need ffmpeg for DASH videos. Get it here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](http://ffmpeg.org/download.html)
 ***
 
