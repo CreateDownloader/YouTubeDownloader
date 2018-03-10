@@ -22,6 +22,19 @@ A GUI application to download videos from YouTube
 ## **`This is a GUI version of youtube-dl found. Get it here Downloader`**
 [![Build This is a GUI version of youtube-dl found here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://rg3.github.io/youtube-dl/)
 ***
+## Building
+
+I have used several packages, such as WindowsApiCodePack, Costura.Fordy etc, which NuGet should take care of automatically when building(See [here](https://docs.nuget.org/Consume/Package-Restore)). So clone the repo, and you're good to go.
+
+### USAGE
+
+1. Copy Youtube/vimeo/dailymotion/any-other-supported-site video url to clipboard
+
+2. Open YouTube Downloader.exe
+
+3. Select the necessary options
+
+4. Click *Download*
 
 ![Screenshot](Youtube-downloader.png)
 
@@ -33,20 +46,3 @@ Here it is in action:
 ![screenshot](Youtube-downloader2.png)
 
 
-### Building
-
-I have used several packages, such as WindowsApiCodePack, Costura.Fordy etc, which NuGet should take care of automatically when building(See [here](https://docs.nuget.org/Consume/Package-Restore)). So clone the repo, and you're good to go.
-
-
-
-
-
-###USAGE
-
-1. Copy Youtube/vimeo/dailymotion/any-other-supported-site video url to clipboard
-
-2. Open YouTube Downloader.exe
-
-3. Select the necessary options
-
-4. Click *Download*
