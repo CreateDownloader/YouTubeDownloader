@@ -1,9 +1,7 @@
  [![Build YouTube Downloader](OpenSource.png)](https://github.com/rnand/Youtube-downloader) 
- 
- [![Build Status](Build.svg)](https://github.com/CreateDownloader/YouTubeDownloader/)  
 
+# YouTubeDownloader  [![Build Status](Build.svg)](https://github.com/CreateDownloader/YouTubeDownloader/)  
 
-# YouTubeDownloader 
 A GUI application to download videos from YouTube
 *`C# Microsoft Visual Studio (2017 - 2015 - 2013)`*
 ## ***``Windows OS Desktop PC``*** 
