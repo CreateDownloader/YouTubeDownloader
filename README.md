@@ -1,6 +1,6 @@
  [![Build YouTube Downloader](OpenSource.png)](https://github.com/rnand/Youtube-downloader) 
  
- [![Build Status](build-passing.png)](https://github.com/CreateDownloader/YouTubeDownloader/)  
+ [![Build Status](Build.svg)](https://github.com/CreateDownloader/YouTubeDownloader/)  
 
 
 # YouTubeDownloader 
