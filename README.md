@@ -1,5 +1,7 @@
  [![Build YouTube Downloader](OpenSource.png)](https://github.com/rnand/Youtube-downloader) 
 
+
+
 # YouTube Downloader  
 
 A GUI application to download videos from YouTube
@@ -20,6 +22,11 @@ A GUI application to download videos from YouTube
 ## **`This is a GUI version of youtube-dl found. Get it here Downloader`**
 [![Build This is a GUI version of youtube-dl found here Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://rg3.github.io/youtube-dl/)
 ***
+
+
+
+***
+
 ## Building
 
 I have used several packages, such as WindowsApiCodePack, Costura.Fordy etc, which NuGet should take care of automatically when building(See [here](https://docs.nuget.org/Consume/Package-Restore)). So clone the repo, and you're good to go.
@@ -43,4 +50,21 @@ You can download videos from other video sharing sites as well. A huge set of si
 Here it is in action:
 ![screenshot](Youtube-downloader2.png)
 
+***
+
+# FFmpeg Builds
+**FFmpeg is the leading multimedia framework to decode, encode, transcode, mux, demux, stream, filter and play. All builds require at least Windows 7. Nightly git builds are licensed as GPL 3.0, and release build are licensed as GPL 3.0 and LGPL 3.0. LGPL 3.0 release builds can be found using the "All Builds" links.**
+
+| Version | Architecture | Linking |
+|---------|--------------|---------|
+|  4.2.1  | [Download Build  (*.exe & .dll*) Windows 32-bit](https://ffmpeg.zeranoe.com/builds/win32/shared/ffmpeg-4.2.1-win32-shared.zip) |  Shared |
+|  4.2.1  | [Download Build  (*.exe & .dll*) Windows 64-bit](https://ffmpeg.zeranoe.com/builds/win64/shared/ffmpeg-4.2.1-win64-shared.zip) |  Shared |
+
+
+
+
+
+***
+## Other Downloads
+[Download All FFmpeg Builds](https://ffmpeg.zeranoe.com/builds/#)
 
